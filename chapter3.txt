@@ -1,0 +1,2 @@
+here i am in the third chapter of my learning journey!
+I have learned that first the files need to go staging area before commiting them to the repository.
